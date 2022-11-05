@@ -2,7 +2,7 @@
 A player statemachine using Godot and GDscript
 </h1>
 
-    Happy you're here, this is a statemachine I made on godot. There are a lot of statemachine examples out there<br>
+    Happy you're here, this is a statemachine I made on godot. There are a lot of statemachine examples out there
     but I find most of them tideous to work with. Hence I made one on my own after going through a lot of articles and 
     tutorials.
     
