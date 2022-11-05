@@ -2,7 +2,6 @@
 A player statemachine using Godot and GDscript
 </h1>
 
-<p>
     Happy you're here, this is a statemachine I made on godot. There are a lot of statemachine examples out there<br>
     but I find most of them tideous to work with. Hence I made one on my own after going through a lot of articles and 
     tutorials.
@@ -17,4 +16,3 @@ A player statemachine using Godot and GDscript
      base state : /scripts/player/states/base_state.gd
      
      other states derived from base state can be found in the same directory
-</p>
